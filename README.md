@@ -1,4 +1,7 @@
-# laravel-development-setup-docker-compose
+[![Tech Stack](https://skillicons.dev/icons?i=laravel,docker,php)](https://skillicons.dev)
+
+
+# Laravel Development-setup-docker-compose
 
 The Laravel Docker Examples Project offers practical and modular examples for Laravel developers to create efficient Docker environments for development and production. This project demonstrates modern Docker best practices, including multi-stage builds, modular configurations, and environment-specific customization. It is designed to be educational, flexible, and extendable, providing a solid foundation for Dockerizing Laravel applications.
 
